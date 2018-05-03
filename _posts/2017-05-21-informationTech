@@ -2,13 +2,15 @@
 layout: post
 title: The Importance of Information Technology in Security
 date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: You’ll find this post in your `_posts` directory. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 tags: [Holidays, Hawaii]
+tags: [Productivity, Workflow] # add tag
 ---
+
 With so many transactions done online and so much information available online, it’s important to keep all of that safe. Information technology makes it possible for your online data to stay secure until accessed by the proper channels. Using passwords and encryption, information technology hides your personal digital data away, and the only way it can be accessed is by companies who have permission from you.
 
-##Generalized Advantages and Disadvantages of Information Technology
+## Generalized Advantages and Disadvantages of Information Technology
 Along with specific contributions to certain fields, information technology also has a few general advantages for society. However, with every advantage, there comes a disadvantage from another area. Below is a brief list of advantages and disadvantages as information technology grows.
 
 ##Advantages
@@ -26,7 +28,7 @@ Along with making businesses more cost effective, information technology allows 
 
 Information technology has also created new jobs. Programmers, systems analyzers, hardware and software developers, and web designers all owe their jobs to information technology. Without such advances, these jobs would not exist.
 
-Disadvantages
+## Disadvantages
 Unfortunately, along with the creation of new and interesting jobs, information technology has also led to a rise in unemployment. By streamlining the business process, job redundancies, downsizing, and outsourcing has occurred. Many low and middle level jobs have been turned to other countries, leaving more people unemployed.
 
 Many people also credit information technology with a lack of job security. As new technology is released and jobs require more and more training, it’s important for employees to stay in a learning mode in order to keep their job. Changes in technology make it difficult for older employees to adapt as quickly as their younger peers.
